@@ -25,6 +25,32 @@
                         "timeLeft": "0h"
                     }
             ]
+        },
+        {
+            "TAF": "Examen blanc BEPC",
+            "promodoros": [
+                    {
+                        "pName": "Maths cours",
+                        "pTime": "2h",
+                        "pStatus": "en cours",
+                        "pspentTime": "1h30",
+                        "timeLeft": "30min"
+                    },
+                    {
+                        "pName": "Anglais cours",
+                        "pTime": "2h",
+                        "pStatus": "non commencé",
+                        "pspentTime": "0h",
+                        "timeLeft": "2h"
+                    },
+                    {
+                        "pName": "SVT cours",
+                        "pTime": "3h",
+                        "pStatus": "terminé",
+                        "pspentTime": "3h",
+                        "timeLeft": "0h"
+                    }
+            ]
         }
     ]
 }
