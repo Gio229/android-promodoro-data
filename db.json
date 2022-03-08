@@ -2,7 +2,7 @@
     "activities": [
         {
             "id": 1,
-            "TAF": "Examen blanc BAC",
+            "TAF": "BAC",
             "promodoros": [
                     {
                         "pName": "Maths cours",
