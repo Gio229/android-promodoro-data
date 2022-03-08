@@ -1,14 +1,28 @@
 {
-    "posts": [
-      { "id": 1, "title": "Post 1" },
-      { "id": 2, "title": "Post 2" },
-      { "id": 3, "title": "Post 3" }
-    ],
-    "comments": [
-      { "id": 1, "body": "some comment", "postId": 1 },
-      { "id": 2, "body": "some comment", "postId": 1 }
-    ],
-    "profile": {
-      "name": "typicode"
-    }
-  }
+    "activities": [
+        {
+            "TAF": "Examen blanc BAC",
+            "promodoros": [
+                    {
+                        "pName": "Maths cours",
+                        "pTime": "2h",
+                        "pStatus": "en cours",
+                        "pspentTime": "1h30",
+                        "timeLeft": "30min"
+                    }     
+            ]
+        },
+        {
+            "TAF": "Examen blanc BEPC",
+            "promodoros": [
+                    {
+                        "pName": "SVT cours",
+                        "pTime": "3h",
+                        "pStatus": "terminé",
+                        "pspentTime": "3h",
+                        "timeLeft": "0h"
+                    }
+            ]
+        }
+    ]
+}
