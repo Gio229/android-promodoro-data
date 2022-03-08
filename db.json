@@ -1,28 +1,30 @@
-[
-    {
-        "TAF": "Examen blanc BAC",
-        "promodoros": [
-                {
-                    "pName": "Maths cours",
-                    "pTime": "2h",
-                    "pStatus": "en cours",
-                    "pspentTime": "1h30",
-                    "timeLeft": "30min"
-                },
-                {
-                    "pName": "SVT cours",
-                    "pTime": "2h",
-                    "pStatus": "non commencé",
-                    "pspentTime": "0h",
-                    "timeLeft": "2h"
-                },
-                {
-                    "pName": "PCT cours",
-                    "pTime": "3h",
-                    "pStatus": "terminé",
-                    "pspentTime": "3h",
-                    "timeLeft": "0h"
-                }
-        ]
-    }
-]
+{
+    "activites": [
+        {
+            "TAF": "Examen blanc BAC",
+            "promodoros": [
+                    {
+                        "pName": "Maths cours",
+                        "pTime": "2h",
+                        "pStatus": "en cours",
+                        "pspentTime": "1h30",
+                        "timeLeft": "30min"
+                    },
+                    {
+                        "pName": "SVT cours",
+                        "pTime": "2h",
+                        "pStatus": "non commencé",
+                        "pspentTime": "0h",
+                        "timeLeft": "2h"
+                    },
+                    {
+                        "pName": "PCT cours",
+                        "pTime": "3h",
+                        "pStatus": "terminé",
+                        "pspentTime": "3h",
+                        "timeLeft": "0h"
+                    }
+            ]
+        }
+    ]
+}
