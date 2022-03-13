@@ -2,29 +2,18 @@
     "activities": [
         {
             "id": 1,
-            "TAF": "BAC",
-            "promodoros": [
-                    {
-                        "pName": "Maths cours",
-                        "pTime": "2h",
-                        "pStatus": "en cours",
-                        "pspentTime": "1h30",
-                        "timeLeft": "30min"
-                    }     
-            ]
-        },
-        {
-            "id": 2,
-            "TAF": "Examen blanc BEPC",
-            "promodoros": [
-                    {
-                        "pName": "SVT cours",
-                        "pTime": "3h",
-                        "pStatus": "terminé",
-                        "pspentTime": "3h",
-                        "timeLeft": "0h"
-                    }
-            ]
+            "tafName": "Examen blanc BAC",
+            "status": 0,
+            "tasks": [
+                {   
+                    "id": 1,
+                    "taskName": "Maths cours",
+                    "status": 0,
+                    "taskTime": "2h",
+                    "taskTimeSpent": "1h30",
+                    "taskTimeLeft": "30min"
+                }
+            ]   
         }
     ]
 }
